@@ -1,0 +1,8 @@
+São três tabelas:
+
+categorias - id / descrição
+(Exemplo: Saúde; Viagem; Roupa; Supermercado; Diversos)
+
+receitas - id / descrição / valor / categoria
+
+despesas - id / descrição / valor / categoria
